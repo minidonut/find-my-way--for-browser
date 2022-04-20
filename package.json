@@ -1,7 +1,7 @@
 {
-  "name": "find-my-way",
-  "version": "5.5.0",
-  "description": "Crazy fast http radix based router",
+  "name": "@minidonut/find-my-way",
+  "version": "1.0.0",
+  "description": "Crazy fast http radix based router for browser",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {

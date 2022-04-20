@@ -43,3 +43,4 @@ jspm_packages
 *.swp
 
 package-lock.json
+pnpm-lock.yaml
