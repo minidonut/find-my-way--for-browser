@@ -1,6 +1,6 @@
 'use strict'
 
-const assert = require('assert')
+const assert = require('./lib/assert')
 const deepEqual = require('fast-deep-equal')
 
 class HandlerStorage {

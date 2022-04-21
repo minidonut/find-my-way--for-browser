@@ -1,0 +1,7 @@
+/src
+out.js
+pnpm-lock.yaml
+.editorconfig
+.prettierignore
+.prettierrc
+.npmrc

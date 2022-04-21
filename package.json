@@ -5,6 +5,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
+    "build": "esbuild src/index.ts --bundle --outfile=out.js",
     "bench": "node bench.js",
     "test:lint": "standard",
     "test:typescript": "tsd",
@@ -35,6 +36,7 @@
   "devDependencies": {
     "@types/node": "^14.0.27",
     "benchmark": "^2.1.4",
+    "esbuild": "^0.14.37",
     "pre-commit": "^1.2.2",
     "prettier": "^2.6.2",
     "request": "^2.88.2",
